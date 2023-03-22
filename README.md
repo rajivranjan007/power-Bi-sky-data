@@ -1,11 +1,17 @@
 # power-Bi-sky-data
 
-Objective – Power BI Desktop, Cloud Service and End to End Workflow 
-Use Case – Connecting a File using Power BI Desktop and formatting the file 
-Source – Sky Transport
-Analytics – Create a new Power BI file, and load the Excel workbook 
-containing a list of the Transport Data
+Objective – Power BI Desktop, Cloud Service and End to End Workflow.
+
+Use Case – Connecting a File using Power BI Desktop and formatting the file .
+
+Source – Sky Transport.
+
+Analytics – Create a new Power BI file, and load the Excel workbook .
+
+containing a list of the Transport Data.
+
 Report/Dashboard – Transport Data
+
 
 • You should hide the Category ID and Origin State.
 
@@ -17,6 +23,7 @@ Report/Dashboard – Transport Data
 
 • Summarize the Revenue & Total Miles
 
-• Save this Power BI file with the name SkyData
+• Save this Power BI file with the name SkyData.
+
 Result - At the end you will Create a new Power BI file, Hide a couple of 
 columns, Create a table
